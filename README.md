@@ -1,1 +1,1 @@
-![Cover](https://github.com/MaelleDL/MaelleDL/tree/master/img/BANNIERE.jpg)
+https://github.com/MaelleDL/MaelleDL/tree/master/img/BANNIERE.jpg
